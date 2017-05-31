@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shijosap/instagram-api-client/issues"
   },
-  "homepage": "https://github.com/shijosap/instagram-api-client#readme"
+  "homepage": "https://github.com/shijosap/instagram-api-client#readme",
+  "dependencies": {
+    "axios": "0.16.1"
+  }
 }
